@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/guliev/static/css/main.ff28cafe.chunk.css",
-    "main.js": "/guliev/static/js/main.4da5deb2.chunk.js",
-    "main.js.map": "/guliev/static/js/main.4da5deb2.chunk.js.map",
+    "main.js": "/guliev/static/js/main.f55533e7.chunk.js",
+    "main.js.map": "/guliev/static/js/main.f55533e7.chunk.js.map",
     "runtime-main.js": "/guliev/static/js/runtime-main.8c50fa5d.js",
     "runtime-main.js.map": "/guliev/static/js/runtime-main.8c50fa5d.js.map",
     "static/js/2.cdf0358c.chunk.js": "/guliev/static/js/2.cdf0358c.chunk.js",
     "static/js/2.cdf0358c.chunk.js.map": "/guliev/static/js/2.cdf0358c.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.18759219f16bd85809f820dba9b68aa8.js": "/guliev/precache-manifest.18759219f16bd85809f820dba9b68aa8.js",
+    "precache-manifest.ce223cff50e54e53030afed665f1c2e8.js": "/guliev/precache-manifest.ce223cff50e54e53030afed665f1c2e8.js",
     "service-worker.js": "/guliev/service-worker.js",
     "static/css/main.ff28cafe.chunk.css.map": "/guliev/static/css/main.ff28cafe.chunk.css.map",
     "static/media/aqua.jpg": "/guliev/static/media/aqua.bdafa195.jpg",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.8c50fa5d.js",
     "static/js/2.cdf0358c.chunk.js",
     "static/css/main.ff28cafe.chunk.css",
-    "static/js/main.4da5deb2.chunk.js"
+    "static/js/main.f55533e7.chunk.js"
   ]
 }
