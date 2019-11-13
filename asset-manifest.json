@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guliev/static/css/main.28dbbf85.chunk.css",
-    "main.js": "/guliev/static/js/main.79a24548.chunk.js",
-    "main.js.map": "/guliev/static/js/main.79a24548.chunk.js.map",
+    "main.css": "/guliev/static/css/main.b182f5ab.chunk.css",
+    "main.js": "/guliev/static/js/main.d7fee5e4.chunk.js",
+    "main.js.map": "/guliev/static/js/main.d7fee5e4.chunk.js.map",
     "runtime-main.js": "/guliev/static/js/runtime-main.8c50fa5d.js",
     "runtime-main.js.map": "/guliev/static/js/runtime-main.8c50fa5d.js.map",
-    "static/js/2.f8f3f2cf.chunk.js": "/guliev/static/js/2.f8f3f2cf.chunk.js",
-    "static/js/2.f8f3f2cf.chunk.js.map": "/guliev/static/js/2.f8f3f2cf.chunk.js.map",
+    "static/js/2.e4129643.chunk.js": "/guliev/static/js/2.e4129643.chunk.js",
+    "static/js/2.e4129643.chunk.js.map": "/guliev/static/js/2.e4129643.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.7f87084da78442e523cf5ed0eaccb62e.js": "/guliev/precache-manifest.7f87084da78442e523cf5ed0eaccb62e.js",
+    "precache-manifest.592c0315da6a0f72aa4bb9c3571a1472.js": "/guliev/precache-manifest.592c0315da6a0f72aa4bb9c3571a1472.js",
     "service-worker.js": "/guliev/service-worker.js",
-    "static/css/main.28dbbf85.chunk.css.map": "/guliev/static/css/main.28dbbf85.chunk.css.map",
+    "static/css/main.b182f5ab.chunk.css.map": "/guliev/static/css/main.b182f5ab.chunk.css.map",
     "static/media/1.png": "/guliev/static/media/1.23b1fe59.png",
     "static/media/2.png": "/guliev/static/media/2.ad483b4b.png",
     "static/media/3.png": "/guliev/static/media/3.45be19cd.png",
@@ -19,14 +19,15 @@
     "static/media/6.png": "/guliev/static/media/6.a923e337.png",
     "static/media/aqua.jpg": "/guliev/static/media/aqua.bdafa195.jpg",
     "static/media/aurora.png": "/guliev/static/media/aurora.6b332b61.png",
+    "static/media/AboutContent.scss": "/guliev/static/media/bg2.714d0894.jpg",
     "static/media/elon.png": "/guliev/static/media/elon.86d71067.png",
     "static/media/kanban.png": "/guliev/static/media/kanban.9f2f78fd.png",
     "static/media/leto.jpg": "/guliev/static/media/leto.d5a359d1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c50fa5d.js",
-    "static/js/2.f8f3f2cf.chunk.js",
-    "static/css/main.28dbbf85.chunk.css",
-    "static/js/main.79a24548.chunk.js"
+    "static/js/2.e4129643.chunk.js",
+    "static/css/main.b182f5ab.chunk.css",
+    "static/js/main.d7fee5e4.chunk.js"
   ]
 }
