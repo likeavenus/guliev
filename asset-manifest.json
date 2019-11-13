@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guliev/static/css/main.b7bc36f6.chunk.css",
-    "main.js": "/guliev/static/js/main.fc7d33b7.chunk.js",
-    "main.js.map": "/guliev/static/js/main.fc7d33b7.chunk.js.map",
+    "main.css": "/guliev/static/css/main.28dbbf85.chunk.css",
+    "main.js": "/guliev/static/js/main.dd156184.chunk.js",
+    "main.js.map": "/guliev/static/js/main.dd156184.chunk.js.map",
     "runtime-main.js": "/guliev/static/js/runtime-main.8c50fa5d.js",
     "runtime-main.js.map": "/guliev/static/js/runtime-main.8c50fa5d.js.map",
-    "static/js/2.4d6d00e3.chunk.js": "/guliev/static/js/2.4d6d00e3.chunk.js",
-    "static/js/2.4d6d00e3.chunk.js.map": "/guliev/static/js/2.4d6d00e3.chunk.js.map",
+    "static/js/2.f8f3f2cf.chunk.js": "/guliev/static/js/2.f8f3f2cf.chunk.js",
+    "static/js/2.f8f3f2cf.chunk.js.map": "/guliev/static/js/2.f8f3f2cf.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.e7ebaefa9ce86f04d3772fb50674c85c.js": "/guliev/precache-manifest.e7ebaefa9ce86f04d3772fb50674c85c.js",
+    "precache-manifest.39397a9556dc50b0a923c980f3384607.js": "/guliev/precache-manifest.39397a9556dc50b0a923c980f3384607.js",
     "service-worker.js": "/guliev/service-worker.js",
-    "static/css/main.b7bc36f6.chunk.css.map": "/guliev/static/css/main.b7bc36f6.chunk.css.map",
+    "static/css/main.28dbbf85.chunk.css.map": "/guliev/static/css/main.28dbbf85.chunk.css.map",
     "static/media/1.png": "/guliev/static/media/1.23b1fe59.png",
     "static/media/2.png": "/guliev/static/media/2.ad483b4b.png",
     "static/media/3.png": "/guliev/static/media/3.45be19cd.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8c50fa5d.js",
-    "static/js/2.4d6d00e3.chunk.js",
-    "static/css/main.b7bc36f6.chunk.css",
-    "static/js/main.fc7d33b7.chunk.js"
+    "static/js/2.f8f3f2cf.chunk.js",
+    "static/css/main.28dbbf85.chunk.css",
+    "static/js/main.dd156184.chunk.js"
   ]
 }
