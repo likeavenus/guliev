@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guliev/static/css/main.ccfc3764.chunk.css",
-    "main.js": "/guliev/static/js/main.d7fee5e4.chunk.js",
-    "main.js.map": "/guliev/static/js/main.d7fee5e4.chunk.js.map",
+    "main.css": "/guliev/static/css/main.4856ed77.chunk.css",
+    "main.js": "/guliev/static/js/main.db225f9f.chunk.js",
+    "main.js.map": "/guliev/static/js/main.db225f9f.chunk.js.map",
     "runtime-main.js": "/guliev/static/js/runtime-main.8c50fa5d.js",
     "runtime-main.js.map": "/guliev/static/js/runtime-main.8c50fa5d.js.map",
-    "static/js/2.e4129643.chunk.js": "/guliev/static/js/2.e4129643.chunk.js",
-    "static/js/2.e4129643.chunk.js.map": "/guliev/static/js/2.e4129643.chunk.js.map",
+    "static/js/2.be0ebaee.chunk.js": "/guliev/static/js/2.be0ebaee.chunk.js",
+    "static/js/2.be0ebaee.chunk.js.map": "/guliev/static/js/2.be0ebaee.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.832ad2dfaf7085f4ca80a587665de49c.js": "/guliev/precache-manifest.832ad2dfaf7085f4ca80a587665de49c.js",
+    "precache-manifest.70e034481c770d75636e4ec894cf166b.js": "/guliev/precache-manifest.70e034481c770d75636e4ec894cf166b.js",
     "service-worker.js": "/guliev/service-worker.js",
-    "static/css/main.ccfc3764.chunk.css.map": "/guliev/static/css/main.ccfc3764.chunk.css.map",
+    "static/css/main.4856ed77.chunk.css.map": "/guliev/static/css/main.4856ed77.chunk.css.map",
     "static/media/1.png": "/guliev/static/media/1.23b1fe59.png",
     "static/media/2.png": "/guliev/static/media/2.ad483b4b.png",
     "static/media/3.png": "/guliev/static/media/3.45be19cd.png",
@@ -21,13 +21,16 @@
     "static/media/aurora.png": "/guliev/static/media/aurora.6b332b61.png",
     "static/media/AboutContent.scss": "/guliev/static/media/bg2.714d0894.jpg",
     "static/media/elon.png": "/guliev/static/media/elon.86d71067.png",
+    "static/media/html.png": "/guliev/static/media/html.19fb4011.png",
     "static/media/kanban.png": "/guliev/static/media/kanban.9f2f78fd.png",
-    "static/media/leto.jpg": "/guliev/static/media/leto.d5a359d1.jpg"
+    "static/media/leto.jpg": "/guliev/static/media/leto.d5a359d1.jpg",
+    "static/media/telegram.svg": "/guliev/static/media/telegram.49aafe51.svg",
+    "static/media/whatsapp.svg": "/guliev/static/media/whatsapp.d72748d4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c50fa5d.js",
-    "static/js/2.e4129643.chunk.js",
-    "static/css/main.ccfc3764.chunk.css",
-    "static/js/main.d7fee5e4.chunk.js"
+    "static/js/2.be0ebaee.chunk.js",
+    "static/css/main.4856ed77.chunk.css",
+    "static/js/main.db225f9f.chunk.js"
   ]
 }
