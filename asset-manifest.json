@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/guliev/static/css/main.ebe3cd8b.chunk.css",
-    "main.js": "/guliev/static/js/main.b6fa0f47.chunk.js",
-    "main.js.map": "/guliev/static/js/main.b6fa0f47.chunk.js.map",
+    "main.js": "/guliev/static/js/main.439366d2.chunk.js",
+    "main.js.map": "/guliev/static/js/main.439366d2.chunk.js.map",
     "runtime-main.js": "/guliev/static/js/runtime-main.8c50fa5d.js",
     "runtime-main.js.map": "/guliev/static/js/runtime-main.8c50fa5d.js.map",
     "static/js/2.be0ebaee.chunk.js": "/guliev/static/js/2.be0ebaee.chunk.js",
     "static/js/2.be0ebaee.chunk.js.map": "/guliev/static/js/2.be0ebaee.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.f5037a7dc754d8c55d464a47d0629ef9.js": "/guliev/precache-manifest.f5037a7dc754d8c55d464a47d0629ef9.js",
+    "precache-manifest.4dad487954a37a44ccef396764d8c806.js": "/guliev/precache-manifest.4dad487954a37a44ccef396764d8c806.js",
     "service-worker.js": "/guliev/service-worker.js",
     "static/css/main.ebe3cd8b.chunk.css.map": "/guliev/static/css/main.ebe3cd8b.chunk.css.map",
-    "static/media/1.png": "/guliev/static/media/1.23b1fe59.png",
-    "static/media/2.png": "/guliev/static/media/2.ad483b4b.png",
-    "static/media/3.png": "/guliev/static/media/3.45be19cd.png",
-    "static/media/4.png": "/guliev/static/media/4.81aab624.png",
-    "static/media/5.png": "/guliev/static/media/5.addc0fbc.png",
-    "static/media/6.png": "/guliev/static/media/6.a923e337.png",
+    "static/media/1.png": "/guliev/static/media/1.aedadc00.png",
+    "static/media/2.png": "/guliev/static/media/2.133f9eec.png",
+    "static/media/3.png": "/guliev/static/media/3.e64f89a5.png",
+    "static/media/4.png": "/guliev/static/media/4.d085a6fe.png",
+    "static/media/5.png": "/guliev/static/media/5.642217b3.png",
+    "static/media/6.png": "/guliev/static/media/6.d385e5d6.png",
     "static/media/aqua.jpg": "/guliev/static/media/aqua.bdafa195.jpg",
     "static/media/aurora.png": "/guliev/static/media/aurora.6b332b61.png",
     "static/media/AboutContent.scss": "/guliev/static/media/bg2.714d0894.jpg",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.8c50fa5d.js",
     "static/js/2.be0ebaee.chunk.js",
     "static/css/main.ebe3cd8b.chunk.css",
-    "static/js/main.b6fa0f47.chunk.js"
+    "static/js/main.439366d2.chunk.js"
   ]
 }

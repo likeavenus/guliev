@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0835b6c8cd0a6301aa762436950ef3c8",
+    "revision": "2b01b6c543d09355f146a25c37fa2dfa",
     "url": "/guliev/index.html"
   },
   {
-    "revision": "79b7039bb1ff4b6688f8",
+    "revision": "9daa89ef3b56420c48b3",
     "url": "/guliev/static/css/main.ebe3cd8b.chunk.css"
   },
   {
@@ -12,36 +12,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guliev/static/js/2.be0ebaee.chunk.js"
   },
   {
-    "revision": "79b7039bb1ff4b6688f8",
-    "url": "/guliev/static/js/main.98e23b23.chunk.js"
+    "revision": "9daa89ef3b56420c48b3",
+    "url": "/guliev/static/js/main.439366d2.chunk.js"
   },
   {
     "revision": "7798c53d0597fdf43de1",
     "url": "/guliev/static/js/runtime-main.8c50fa5d.js"
   },
   {
-    "revision": "23b1fe5944efa3d08a64062b14c9a8ad",
-    "url": "/guliev/static/media/1.23b1fe59.png"
+    "revision": "aedadc0026585ed139dad6c474dbbfd8",
+    "url": "/guliev/static/media/1.aedadc00.png"
   },
   {
-    "revision": "ad483b4b47187c009cb8e2d2823f6d04",
-    "url": "/guliev/static/media/2.ad483b4b.png"
+    "revision": "133f9eeca64ff03e9bea03f7b9b7f121",
+    "url": "/guliev/static/media/2.133f9eec.png"
   },
   {
-    "revision": "45be19cdebe8d095dfe7b6e857cf4a2e",
-    "url": "/guliev/static/media/3.45be19cd.png"
+    "revision": "e64f89a548efd91ce55206e89c82e384",
+    "url": "/guliev/static/media/3.e64f89a5.png"
   },
   {
-    "revision": "81aab624ad05362315d417d95e54e7a9",
-    "url": "/guliev/static/media/4.81aab624.png"
+    "revision": "d085a6fef36270133abe71239523a795",
+    "url": "/guliev/static/media/4.d085a6fe.png"
   },
   {
-    "revision": "addc0fbc22b29966461e23562d351997",
-    "url": "/guliev/static/media/5.addc0fbc.png"
+    "revision": "642217b3ef0f381ad13d6483c3d25cfb",
+    "url": "/guliev/static/media/5.642217b3.png"
   },
   {
-    "revision": "a923e3374b6b5e5c8e68c01da3742ed8",
-    "url": "/guliev/static/media/6.a923e337.png"
+    "revision": "d385e5d6736c78bbe43e651488cea4fb",
+    "url": "/guliev/static/media/6.d385e5d6.png"
   },
   {
     "revision": "bdafa19571613229d6a54ac038416abe",
