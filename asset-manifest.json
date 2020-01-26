@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/guliev/static/css/main.ebe3cd8b.chunk.css",
-    "main.js": "/guliev/static/js/main.439366d2.chunk.js",
-    "main.js.map": "/guliev/static/js/main.439366d2.chunk.js.map",
-    "runtime-main.js": "/guliev/static/js/runtime-main.8c50fa5d.js",
-    "runtime-main.js.map": "/guliev/static/js/runtime-main.8c50fa5d.js.map",
-    "static/js/2.be0ebaee.chunk.js": "/guliev/static/js/2.be0ebaee.chunk.js",
-    "static/js/2.be0ebaee.chunk.js.map": "/guliev/static/js/2.be0ebaee.chunk.js.map",
+    "main.css": "/guliev/static/css/main.adb0a7df.chunk.css",
+    "main.js": "/guliev/static/js/main.32534587.chunk.js",
+    "main.js.map": "/guliev/static/js/main.32534587.chunk.js.map",
+    "runtime-main.js": "/guliev/static/js/runtime-main.296b2d95.js",
+    "runtime-main.js.map": "/guliev/static/js/runtime-main.296b2d95.js.map",
+    "static/js/2.b3839b57.chunk.js": "/guliev/static/js/2.b3839b57.chunk.js",
+    "static/js/2.b3839b57.chunk.js.map": "/guliev/static/js/2.b3839b57.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.4dad487954a37a44ccef396764d8c806.js": "/guliev/precache-manifest.4dad487954a37a44ccef396764d8c806.js",
+    "precache-manifest.6b1168b84fb3797567c476e84b2f2c90.js": "/guliev/precache-manifest.6b1168b84fb3797567c476e84b2f2c90.js",
     "service-worker.js": "/guliev/service-worker.js",
-    "static/css/main.ebe3cd8b.chunk.css.map": "/guliev/static/css/main.ebe3cd8b.chunk.css.map",
-    "static/media/1.png": "/guliev/static/media/1.aedadc00.png",
-    "static/media/2.png": "/guliev/static/media/2.133f9eec.png",
-    "static/media/3.png": "/guliev/static/media/3.e64f89a5.png",
-    "static/media/4.png": "/guliev/static/media/4.d085a6fe.png",
-    "static/media/5.png": "/guliev/static/media/5.642217b3.png",
-    "static/media/6.png": "/guliev/static/media/6.d385e5d6.png",
+    "static/css/main.adb0a7df.chunk.css.map": "/guliev/static/css/main.adb0a7df.chunk.css.map",
+    "static/media/1.png": "/guliev/static/media/1.23b1fe59.png",
+    "static/media/2.png": "/guliev/static/media/2.ad483b4b.png",
+    "static/media/3.png": "/guliev/static/media/3.45be19cd.png",
+    "static/media/4.png": "/guliev/static/media/4.81aab624.png",
+    "static/media/5.png": "/guliev/static/media/5.addc0fbc.png",
+    "static/media/6.png": "/guliev/static/media/6.a923e337.png",
     "static/media/aqua.jpg": "/guliev/static/media/aqua.bdafa195.jpg",
     "static/media/aurora.png": "/guliev/static/media/aurora.6b332b61.png",
     "static/media/AboutContent.scss": "/guliev/static/media/bg2.714d0894.jpg",
@@ -29,9 +29,9 @@
     "static/media/whatsapp.svg": "/guliev/static/media/whatsapp.d72748d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c50fa5d.js",
-    "static/js/2.be0ebaee.chunk.js",
-    "static/css/main.ebe3cd8b.chunk.css",
-    "static/js/main.439366d2.chunk.js"
+    "static/js/runtime-main.296b2d95.js",
+    "static/js/2.b3839b57.chunk.js",
+    "static/css/main.adb0a7df.chunk.css",
+    "static/js/main.32534587.chunk.js"
   ]
 }
