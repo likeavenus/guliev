@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guliev/static/css/main.6cbfdb98.chunk.css",
-    "main.js": "/guliev/static/js/main.da338999.chunk.js",
-    "main.js.map": "/guliev/static/js/main.da338999.chunk.js.map",
+    "main.css": "/guliev/static/css/main.639a1db7.chunk.css",
+    "main.js": "/guliev/static/js/main.26c43491.chunk.js",
+    "main.js.map": "/guliev/static/js/main.26c43491.chunk.js.map",
     "runtime-main.js": "/guliev/static/js/runtime-main.296b2d95.js",
     "runtime-main.js.map": "/guliev/static/js/runtime-main.296b2d95.js.map",
     "static/js/2.055f0cfb.chunk.js": "/guliev/static/js/2.055f0cfb.chunk.js",
     "static/js/2.055f0cfb.chunk.js.map": "/guliev/static/js/2.055f0cfb.chunk.js.map",
     "index.html": "/guliev/index.html",
-    "precache-manifest.726068e7c1039817663d27d3e72c85b6.js": "/guliev/precache-manifest.726068e7c1039817663d27d3e72c85b6.js",
+    "precache-manifest.d177546547ca1ef343cb5fb2957d7953.js": "/guliev/precache-manifest.d177546547ca1ef343cb5fb2957d7953.js",
     "service-worker.js": "/guliev/service-worker.js",
-    "static/css/main.6cbfdb98.chunk.css.map": "/guliev/static/css/main.6cbfdb98.chunk.css.map",
+    "static/css/main.639a1db7.chunk.css.map": "/guliev/static/css/main.639a1db7.chunk.css.map",
     "static/media/1.png": "/guliev/static/media/1.aedadc00.png",
     "static/media/2.jpg": "/guliev/static/media/2.ff761ba2.jpg",
     "static/media/3.png": "/guliev/static/media/3.e64f89a5.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.296b2d95.js",
     "static/js/2.055f0cfb.chunk.js",
-    "static/css/main.6cbfdb98.chunk.css",
-    "static/js/main.da338999.chunk.js"
+    "static/css/main.639a1db7.chunk.css",
+    "static/js/main.26c43491.chunk.js"
   ]
 }
